@@ -1,0 +1,124 @@
+
+body{
+    text-align: center;
+}
+
+.h{
+    background-image: url(images/5527691.jpg);
+    width: 100%;
+    height: 30rem;
+}
+.e{
+    text-align: center;
+    padding-top: 10rem;
+    color: antiquewhite;
+
+}
+
+.h1{
+    min-width: none;
+    font-size: 20rem;
+    padding-bottom: 20rem;
+}
+
+.navbar{
+    padding: 0% 0% 4.5rem;
+    position: fixed;
+}
+.nav-item{
+    padding: 0% 18px;
+   
+}
+.nav-link{
+font-size: 1.1rem;
+}
+
+.t{
+    width: 60%;
+    height: 20rem;
+    position: absolute;
+}
+
+
+.i{
+    padding-top: 5rem;
+    font-size: x-large;
+}
+
+.a{
+    text-align: center;
+    font-size: 2.5rem;
+    color: black;
+    margin-bottom: 5rem;
+}
+
+.colored-section{
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  
+    
+}
+.container-fluid{
+    background-color: black;
+   
+}
+.g{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.h2{
+    text-align: center;
+}
+.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+font-size: large;
+margin-top: 3rem;
+margin-bottom: 3rem;
+}
+.about{
+    color: blue;
+    size: 20px;
+    padding-top: 3rem;
+    text-align: justify;
+    
+}
+.q{
+    float: left;
+    margin-right: 5rem;
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+   
+}
+.us{
+    margin-top: 5rem;
+    position: relative;
+}
+.f{
+    padding-bottom: 3rem;
+}
+.j{
+    margin-top: 15rem;
+}
+.r{
+ margin-bottom: 2rem;
+ 
+}
+i{
+    color: darkslategrey;
+}
+h3{
+    margin-bottom: 2rem;
+}
+footer{
+    background-color: lightseagreen;
+    line-height: 3rem;
+    
+}
+.w{
+    color: black;
+    text-align: center;
+}
